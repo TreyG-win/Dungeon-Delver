@@ -11,3 +11,18 @@ Controls:
   * Tip: The grappler is being held by a skeleton in the starting room with the player.
 * There are some locked doors throughout the dungeon, these can be opened with a key by approaching the sealed door.
   * Tip: The keys will be tucked away in different rooms throughout the dungeon.
+ 
+The sections that I have worked on:
+
+**Assets Directory**
+
+*__Scripts*
+* Char Managers directory and the nested scripts.
+* Dray Managers directory and the nested scripts.
+* Enemies directory and the nested scripts.
+* The PickUp.cs script inside of the __Scripts directory.
+
+*_Prefabs*
+* The prefabs inside of the Characters and Item Drops directories.
+
+
