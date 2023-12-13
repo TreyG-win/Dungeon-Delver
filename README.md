@@ -6,6 +6,7 @@ This Dungeon Delver project is inspired by the Legend of Zelda (1986) in terms o
 
 Controls:
 * The player can move with W,A,S,D in the respective direction.
+* You can attack with left click.
 * When it is acquired, the player can make use of a grapple hook with "E".
   * Tip: The grappler is being held by a skeleton in the starting room with the player.
 * There are some locked doors throughout the dungeon, these can be opened with a key by approaching the sealed door.
